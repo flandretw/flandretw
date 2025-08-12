@@ -1,7 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/zzg4vw2.gif" alt="flandretw" height="300" width="400" />
+</p>
+
 <h1 align="center">嗨嗨 👋，我是 flandretw！</h1>
 <h3 align="center">喜歡安靜地睡覺，不被打擾。</h3>
-
-<img align="center" src="https://i.imgur.com/zzg4vw2.gif" alt="flandretw" height="300" width="400" />
 
 - 🔭 我正在努力 **睡覺**
 
