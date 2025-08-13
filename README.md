@@ -1,4 +1,4 @@
-<h1 align="center">嗨嗨 👋，我是 flandretw！</h1>
+<h1 align="center">嗨嗨 🦇，我是蘭蘭露（flandretw）！</h1>
 <h3 align="center">喜歡安靜地睡覺，不被打擾。</h3>
 
 ![](https://komarev.com/ghpvc/?username=flandretw)
@@ -17,9 +17,9 @@
 
 - 💬 可以問我有關 **睡覺 的話題**
 
-- 📫 如何聯絡我 **Discord**
+- 📫 如何聯絡我 **Discord 加我好友**
 
-- ⚡ 有趣的事情 **睡覺有益身心健康**
+- ⚡ 有趣的事實 **睡覺有益身心健康**
 
 <h3 align="left">聯絡方式：</h3>
 <p align="left">
