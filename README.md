@@ -1,8 +1,6 @@
 <h1 align="center">嗨嗨 🦇，我是蘭蘭露（flandretw）！</h1>
 <h3 align="center">喜歡安靜地睡覺，不被打擾。</h3>
 
-![](https://komarev.com/ghpvc/?username=flandretw)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=flandretw&theme=discord)
 
 - 🔭 我正在努力 **睡覺**
