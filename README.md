@@ -33,7 +33,6 @@
 <h3 align="left">語言與工具：</h3>
 
 
-[![Social Icons](https://skillicons.dev/icons?i=twitter,youtube,discord,gmail)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=au,pr,ai,ps,figma,notion,blender,unity,git,github,bash,py,azure,cloudflare)](https://skillicons.dev)
 
 <p align="center">
