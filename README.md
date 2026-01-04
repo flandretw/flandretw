@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">語言與工具：</h3>
-[![My Skills](https://skillicons.dev/icons?i=au,azure,bash,blender,cloudflare,figma,git,github,gitlab,ai,notion,ps,pr,py,unity)](https://skillicons.dev)
+<p>[![My Skills](https://skillicons.dev/icons?i=au,azure,bash,blender,cloudflare,figma,git,github,gitlab,ai,notion,ps,pr,py,unity)y(https://skillicons.dev)</p>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@flandretw?theme=booru-jaypee" alt="visitor count"/>
