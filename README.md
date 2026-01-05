@@ -26,13 +26,13 @@
 <h3 align="left">聯絡方式：</h3>
 <p align="left">
   <a href="https://x.com/flandretw" target="blank">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <kbd><img src="https://static.wikia.nocookie.net/logopedia/images/7/7a/X_2023_2.svg/revision/latest/scale-to-width-down/40?cb=20230818131819" alt="X" height="25" /></kbd>
   </a>
   <a href="https://www.youtube.com/c/蘭蘭露" target="blank">
-    <img src="https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <kbd><img src="https://static.wikia.nocookie.net/logopedia/images/9/9f/YouTube_icon_2024.svg/revision/latest/scale-to-width-down/40?cb=20240718123533" alt="YouTube" height="25" /></kbd>
   </a>
   <a href="https://discord.gg/flandretw" target="blank">
-    <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <kbd><img src="https://static.wikia.nocookie.net/logopedia/images/2/2a/Discord_2021_Logo_%28Blue_Inverted%29.svg/revision/latest/scale-to-width-down/40?cb=20210513155519" alt="Discord" height="25" /></kbd>
   </a>
 </p>
 
