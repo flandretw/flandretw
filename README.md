@@ -25,9 +25,9 @@
 
 <h3 align="left">聯絡方式：</h3>
 <p align="left">
-<a href="https://twitter.com/flandretw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="flandretw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/蘭蘭露" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="蘭蘭露" height="30" width="40" /></a>
-<a href="https://discord.gg/flandretw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flandretw" height="30" width="40" /></a>
+<a href="https://x.com/flandretw" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/7/7a/X_2023_2.svg/revision/latest/scale-to-width-down/1000?cb=20230818131819" alt="flandretw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/蘭蘭露" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/9/9f/YouTube_icon_2024.svg/revision/latest/scale-to-width-down/1000?cb=20240718123533" alt="蘭蘭露" height="30" width="40" /></a>
+<a href="https://discord.gg/flandretw" target="blank"><img align="center" src="https://static.wikia.nocookie.net/logopedia/images/2/2a/Discord_2021_Logo_%28Blue_Inverted%29.svg/revision/latest?cb=20210513155519" alt="flandretw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">語言與工具：</h3>
