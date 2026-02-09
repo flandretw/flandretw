@@ -5,7 +5,6 @@
   <img src="https://i.imgur.com/zzg4vw2.gif" alt="flandretw" height="300" width="400" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=flandretw&theme=discord)
 
 - 🔭 我正在努力 **睡覺**
 
